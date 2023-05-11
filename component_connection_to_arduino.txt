@@ -1,0 +1,39 @@
+1) RFID MFRC522
+
+Pin 	  Wiring to Arduino Uno
+SDA 	  Digital 10
+SCK 	  Digital 13
+MOSI 	  Digital 11
+MISO 	  Digital 12
+IRQ 	  unconnected
+GND 	  GND
+RST 	  Digital 9
+3.3V 	  3.3V
+
+Caution: You must power this device to 3.3V!
+
+
+2) I2C module
+
+I2C     Character LCD	Arduino
+GND	    GND
+VCC	    5 V
+SDA	    A4
+SDL	    A5
+
+3) Servo Motor
+
+Yellow    6
+Red	  5V
+Black 	 GND
+
+4) Light and Buzzer
+
+Red  	GND  8
+Green 	GND  4
+Buzzer 	GND  5
+
+
+Card UID: 43 85 9E AA
+Card UID: F3 C7 1A 2E
+Card UID: 93 E7 22 A6
